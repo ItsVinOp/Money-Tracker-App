@@ -39,6 +39,6 @@ app.get("/",(req,res)=>{
     "Allow-access-Allow-Origin": '*'
   })
   return res.redirect('.public/index.html')
-}).listen(4000)
+}).listen(https://money-tracker-app-phi.vercel.app/)
 
 console.log("Listening on port 4000")
